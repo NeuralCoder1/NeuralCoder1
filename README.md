@@ -30,7 +30,7 @@ Automation tools and frameworks development
 
 - 📫 How to reach me ...
 
-    LinkedIn:  www.linkedin.com/in/looknathdas-ai-ml
+    LinkedIn:  https://www.linkedin.com/in/looknathdas01
 
 - 😄 Pronouns: ...
   He/Him/His
