@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+NeuralCoder1!;AI+%26+Machine+Learning+Developer;Deep+Learning+Enthusiast;Software+Engineer+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi%2C+_I'm+@NeuralCoder1!_;AI+%26+Machine+Learning+Developer;Deep+Learning+Enthusiast;Software+Engineer+%7C+Tech+Explorer" alt="Typing SVG" />
 </p>
 
 <br>
