@@ -17,7 +17,7 @@ My mission is to build intelligent systems, explore deep learning advancements, 
 <!-- TWO-COLUMN SECTION -->
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="59%" valign="top">
 
 ### 🧠 Interests
 - 🤖 Artificial Intelligence & Machine Learning  
@@ -29,7 +29,7 @@ My mission is to build intelligent systems, explore deep learning advancements, 
 - 🔬 Research in New Technologies  
 
 </td>
-<td width="60%" valign="top">
+<td width="59%" valign="top">
 
 ### 🌱 Currently Learning
 - 🌀 GANs, RL & Computer Vision  
@@ -45,7 +45,7 @@ My mission is to build intelligent systems, explore deep learning advancements, 
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="70%" valign="top">
 
 ### 🤝 Collaboration Interests
 - 🧠 AI/ML Open-Source Projects  
@@ -56,14 +56,13 @@ My mission is to build intelligent systems, explore deep learning advancements, 
 - 👨‍🏫 Tech Education & Communities  
 
 </td>
-<td width="50%" valign="top">
+<td width="70%" valign="top">
 
 ### 📫 Contact
 - 🔗 **LinkedIn:**  
   https://www.linkedin.com/in/looknathdas01  
 
-### 😄 Pronouns  
-**He/Him/His**
+### 😄 Pronouns:-  **He/Him/His**
 
 ### ⚡ Fun Fact  
 I trained a neural network to write poems —  
@@ -80,7 +79,7 @@ Outside coding, I enjoy hiking & exploring new tech.
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,cpp,js,react,aws,azure,gcp,docker,linux,git&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,cpp,js,react,aws,azure,gcp,javascript,docker,linux,git&perline=7" />
 </p>
 
 
