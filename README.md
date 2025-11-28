@@ -1,42 +1,96 @@
-- 👋 Hi, _**I’m @NeuralCoder1**_
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+NeuralCoder1!;AI+%26+Machine+Learning+Developer;Deep+Learning+Enthusiast;Software+Engineer+%7C+Tech+Explorer" alt="Typing SVG" />
+</p>
 
-  I am a passionate and results-driven developer with a focus on **Artificial Intelligence (AI)** and **Machine Learning (ML)**.  
-  With a strong foundation in software engineering, I aim to create innovative solutions to complex challenges and contribute to technological advancement through research and collaboration.
+<br>
 
-- 👀 **I’m interested in**  
-  - Artificial Intelligence **(AI)** and Machine Learning **(ML)**  
-  - Deep Learning (Transformers, GANs, large models)  
-  - Natural Language Processing **(NLP)**  
-  - Software Development and Automation  
-  - Data Science, Analytics, Big Data  
-  - **Cloud Computing and DevOps**  
-  - Research in emerging technologies  
+<!-- INTRO -->
+<h2 align="center">👋 Welcome to My GitHub Profile</h2>
 
-- 🌱 **I’m currently learning**  
-  - Advanced Deep Learning (GANs, RL, CV)  
-  - Cloud Platforms **(AWS, Azure, GCP)**  
-  - Distributed Computing  
-  - AI Ethics and Theory  
+<p align="center">
+I am a passionate developer focused on <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong>.<br>
+My mission is to build intelligent systems, explore deep learning advancements, and contribute to impactful research.
+</p>
+
+---
+
+<!-- TWO-COLUMN SECTION -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🧠 Interests
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🧬 Transformers, GANs & Reinforcement Learning  
+- 🗣️ Natural Language Processing  
+- ⚙️ Automation & Software Engineering  
+- 📊 Big Data, Analytics  
+- ☁️ Cloud Computing & DevOps  
+- 🔬 Research in New Technologies  
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Currently Learning
+- 🌀 GANs, RL & Computer Vision  
+- ☁️ AWS, Azure & GCP  
+- 🧩 Distributed Computing  
+- 🧠 AI Ethics & Theoretical ML  
+
+</td>
+  </tr>
+</table>
+
+---
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🤝 Collaboration Interests
+- 🧠 AI/ML Open-Source Projects  
+- 🔭 Research Work  
+- 🏗️ Scalable Software Systems  
+- 📈 Data Science & Predictive Analytics  
+- 🔧 Automation Tools & Frameworks  
+- 👨‍🏫 Tech Education & Communities  
+
+</td>
+<td width="50%" valign="top">
+
+### 📫 Contact
+- 🔗 **LinkedIn:**  
+  https://www.linkedin.com/in/looknathdas01  
+
+### 😄 Pronouns  
+**He/Him/His**
+
+### ⚡ Fun Fact  
+I trained a neural network to write poems —  
+and it wrote surprisingly good ones!  
+Outside coding, I enjoy hiking & exploring new tech.
+
+</td>
+  </tr>
+</table>
+
+---
+
+<!-- TECH STACK -->
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,cpp,js,react,aws,azure,gcp,docker,linux,git&perline=7" />
+</p>
+
+---
+
+<!-- ANIMATED QUOTE -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F70000&center=true&vCenter=true&width=800&lines=%22Code+is+the+closest+thing+we+have+to+magic.%22;%22Every+model+you+train+teaches+you+something+new.%22;%22Keep+building.+Keep+learning.+Keep+evolving.%22" />
+</p>
 
 
-- 💞️ **I’m looking to collaborate on**  
-  - Open-source AI/ML projects  
-  - **Research initiatives**  
-  - **Software Development** for scalable systems  
-  - Data Science & Predictive Analytics  
-  - Community-driven programming & tech education  
-  - Automation tools & frameworks  
 
-
-- 📫 **How to reach me**  
-  **LinkedIn:** https://www.linkedin.com/in/looknathdas01  
-
-
-- 😄 **Pronouns:**  
-  **He / Him / His**
-
-
-- ⚡ **Fun fact:**  
-  I once trained a neural network to generate poems—and the results surprised me!  
-  Outside of coding, I enjoy hiking and exploring new tech.
 
