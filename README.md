@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NeuralCoder1,
 I am a passionate and results-driven
 developer with a focus on
-Artificial Intelligence (AI) and Machine Learning (ML).
+<b>Artificial Intelligence (AI) and Machine Learning (ML).<b/>
 With a strong foundation in software engineering,
 I aim to create innovative solutions to complex
 challenges and contribute to the advancement
