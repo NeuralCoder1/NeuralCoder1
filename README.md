@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi%2C+_I'm+@NeuralCoder1!_;AI+%26+Machine+Learning+Developer;Deep+Learning+Enthusiast;Software+Engineer+%7C+Tech+Explorer" alt="Typing SVG" />
 </p>
 
-<br>
+
 
 <!-- INTRO -->
 <h2 align="center">👋 Welcome to My GitHub Profile</h2>
@@ -13,12 +13,11 @@ I am a passionate developer focused on <strong>Artificial Intelligence</strong> 
 My mission is to build intelligent systems, explore deep learning advancements, and contribute to impactful research.
 </p>
 
----
 
 <!-- TWO-COLUMN SECTION -->
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="60%" valign="top">
 
 ### 🧠 Interests
 - 🤖 Artificial Intelligence & Machine Learning  
@@ -30,7 +29,7 @@ My mission is to build intelligent systems, explore deep learning advancements, 
 - 🔬 Research in New Technologies  
 
 </td>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ### 🌱 Currently Learning
 - 🌀 GANs, RL & Computer Vision  
@@ -84,7 +83,6 @@ Outside coding, I enjoy hiking & exploring new tech.
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,cpp,js,react,aws,azure,gcp,docker,linux,git&perline=7" />
 </p>
 
----
 
 <!-- ANIMATED QUOTE -->
 <p align="center">
