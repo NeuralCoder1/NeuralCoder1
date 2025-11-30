@@ -15,9 +15,10 @@ My mission is to build intelligent systems, explore deep learning advancements, 
 
 
 <!-- TWO-COLUMN SECTION -->
+<div align="center">
 <table>
   <tr>
-    <td width="59%" valign="top">
+    <td width="50%" valign="top">
 
 ### 🧠 Interests
 - 🤖 Artificial Intelligence & Machine Learning  
@@ -29,7 +30,7 @@ My mission is to build intelligent systems, explore deep learning advancements, 
 - 🔬 Research in New Technologies  
 
 </td>
-<td width="59%" valign="top">
+<td width="50%" valign="top">
 
 ### 🌱 Currently Learning
 - 🌀 GANs, RL & Computer Vision  
@@ -40,12 +41,13 @@ My mission is to build intelligent systems, explore deep learning advancements, 
 </td>
   </tr>
 </table>
+</div>
 
----
 
+<div align="center">
 <table>
   <tr>
-    <td width="70%" valign="top">
+    <td width="50%" valign="top">
 
 ### 🤝 Collaboration Interests
 - 🧠 AI/ML Open-Source Projects  
@@ -56,15 +58,13 @@ My mission is to build intelligent systems, explore deep learning advancements, 
 - 👨‍🏫 Tech Education & Communities  
 
 </td>
-<td width="70%" valign="top">
+<td width="50%" valign="top">
 
 ### 📫 Contact
-- 🔗 **LinkedIn:**  
-  https://www.linkedin.com/in/looknathdas01  
+- 🔗 **LinkedIn:**  <a href="https://www.linkedin.com/in/looknathdas01">Click Here</a></li>
+😄**Pronouns:-** 😎He/Him/His
 
-### 😄 Pronouns:-  **He/Him/His**
-
-### ⚡ Fun Fact  
+### ⚡Fun Fact  
 I trained a neural network to write poems —  
 and it wrote surprisingly good ones!  
 Outside coding, I enjoy hiking & exploring new tech.
@@ -72,9 +72,16 @@ Outside coding, I enjoy hiking & exploring new tech.
 </td>
   </tr>
 </table>
+</div>
 
----
+
+
+<div align="center">
+<h2 align="center">🦾GitHub Stack</h2>
+  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NeuralCoder1&theme=burnt-neon)](https://git.io/streak-stats)]
+
+  </div>
 <!-- TECH STACK -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
