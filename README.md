@@ -79,7 +79,7 @@ Outside coding, I enjoy hiking & exploring new tech.
 <div align="center">
 <h2 align="center">🦾GitHub Stack</h2>
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NeuralCoder1&theme=burnt-neon)](https://git.io/streak-stats)]
+[![GitHub Streak](https://streak-stats.demolab.com/?user=neuralcoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
   </div>
 <!-- TECH STACK -->
